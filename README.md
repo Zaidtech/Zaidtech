@@ -14,5 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- Actual text -->
+
+You can find me on [![LinkedIn][2.2]][3].
+
+<!-- Icons -->
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+
+<!-- Links to your social media accounts -->
+
+[3]: https://www.linkedin.com/in/zaid-ali-b91a78192/
+
 ![Zaid's github stats](https://github-readme-stats.vercel.app/api?username=Zaidtech&show_icons=true&theme=Gradient)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaidtech&langs_count=8&layout=compact)](https://github.com/Zaidtech/github-readme-stats)
