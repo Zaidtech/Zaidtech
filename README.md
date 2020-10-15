@@ -1,4 +1,4 @@
-### Hi there 👋
+### Greetings from Zaid, 👋 . Currently an undergrad at A.M.U  and trying to make some cool stuffs 😄.
 
 <!--
 **Zaidtech/Zaidtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
