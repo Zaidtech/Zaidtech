@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 <!-- Links to your social media accounts -->
 
 [3]: https://www.linkedin.com/in/zaid-ali-b91a78192/
-![](https://komarev.com/ghpvc/?username=Zaidtech)
+![](https://komarev.com/ghpvc/?username=Zaidtech&color=ff69b4)
