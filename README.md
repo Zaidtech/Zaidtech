@@ -2,11 +2,11 @@
         width="35"></h1>
 <p align="center">
     <a href="https://github.com/Zaidtech">
-     <img src="https://readme-typing-svg.herokuapp.com/?color=%23F70100&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Welcome+to+my+brain!;Python%2C+Networking%2C+JavaScript%2C+MySql%22">
+     <img src="https://readme-typing-svg.herokuapp.com/?color=%23F70100&center=true&vCenter=true&multiline=true&width=530&height=100&lines=Welcome+to+my+brain!;Python%2C+Networking%2C+JavaScript%2C+Automation%22">
    </a>
 </p>
 
-<div align="center">
+<div align="center">       
     <a href="https://www.instagram.com/z_a__.i.d//" target="_blank"><img
             src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
             target="_blank"></a>
@@ -21,7 +21,6 @@
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaidtech&layout=compact&langs_count=16&theme=react" />
 </div>
 
-#
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Zaidtech" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •
@@ -29,7 +28,6 @@
         src="https://img.shields.io/github/followers/Zaidtech?label=Followers&style=social"> •
     <img src="https://img.shields.io/github/stars/Zaidtech?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
-
 
 
 **My Contributions This Year:**
