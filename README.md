@@ -1,34 +1,40 @@
-## Greetings from Zaid, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> . Currently an undergrad at A.M.U  and trying to make some cool stuffs 😆.
-![](https://komarev.com/ghpvc/?username=Zaidtech&color=ff69b4)
+<h1 align="center">Hi , I'm Mohammad Zaid <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
+        width="35"></h1>
+<p align="center">
+    <a href="https://github.com/Zaidtech">
+     <img src="https://readme-typing-svg.herokuapp.com/?color=%23F70100&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Welcome+to+my+brain!;Python%2C+Networking%2C+JavaScript%2C+MySql%22">
+   </a>
+</p>
 
-<!--
-**Zaidtech/Zaidtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+    <a href="https://www.instagram.com/z_a__.i.d//" target="_blank"><img
+            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+            target="_blank"></a>
+    <a href="https://tr.linkedin.com/in/mzaidali/" target="_blank"><img
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+            target="_blank"></a>
+</div>
 
-Here are some ideas to get you started:
+<br>
+<div align="center">
+        <img height="220em"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaidtech&layout=compact&langs_count=16&theme=react" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- Actual text -->
+#
 
-![Zaid's github stats](https://github-readme-stats.vercel.app/api?username=Zaidtech&show_icons=true&theme=Gradient)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaidtech&langs_count=8&layout=compact)](https://github.com/Zaidtech/github-readme-stats)
-
-
-
- You can find me on [![LinkedIn][2.2]][3] as well  😄.
-
-<!-- Icons -->
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Zaidtech" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •
+    <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜"
+        src="https://img.shields.io/github/followers/Zaidtech?label=Followers&style=social"> •
+    <img src="https://img.shields.io/github/stars/Zaidtech?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+</p>
 
 
-<!-- Links to your social media accounts -->
 
-[3]: https://www.linkedin.com/in/zaid-ali-b91a78192/
+**My Contributions This Year:**
+<!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗𝙶𝚛𝚊𝚙𝚑](https://github.com/JayantGoel001/JayantGoel001/blob/master/github-contribution-grid-snake.svg)
+<!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
+<br />
 
