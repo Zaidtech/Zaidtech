@@ -5,10 +5,6 @@
    </a>
 </p>
 <br/>
-<div align="center">
-    <a href="https://tr.linkedin.com/in/mzaidali/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-
 <br>
 <div align="center">
     <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaidtech&layout=compact&langs_count=16&theme=react" />
