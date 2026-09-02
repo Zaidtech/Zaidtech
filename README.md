@@ -110,7 +110,7 @@ Senior Software Developer with **3+ years** of expertise in **full-stack develop
 <tr>
 <td width="50%">
 
-### 📱 [KitnaBana](https://github.com/Zaidtech/KitnaBana)
+### 📱 [KitnaBana](https://www.kitnabana.com)
 **AI-Powered Financial App for Gig Workers**
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
